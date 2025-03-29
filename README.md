@@ -1,6 +1,7 @@
 # QR Code Authentication
 
-This repository contains a QR code authentication system that utilizes both CNN and SVM models for classification. The project includes data preprocessing, feature engineering, model training, and prediction.
+This repository contains a QR code authentication system to identify original vs. 
+counterfeit QR codes. that utilizes both CNN and SVM models for classification. The project includes data preprocessing, feature engineering, model training, and prediction.
 
 ## Folder Structure
 ```
@@ -64,6 +65,6 @@ This repository contains a QR code authentication system that utilizes both CNN 
 
 
 ## 📄 Project Documentation
-[📑 View Documentation](./document_pdf.pdf)
+[📑 View Documentation](https://drive.google.com/file/d/1-sygM-hVaMbs4DJ_RgJm7d6ZgIB4C8cu/view?usp=sharing)
 
 
